@@ -4,7 +4,7 @@ A terminal-based AI nutrition planning system that uses search algorithms (Greed
 
 ## 🎯 Project Overview
 
-**Course:** CSA2001 — Fundamentals in AI and ML (Project 3)
+**Course:** CSA2001 — Fundamentals in AI and ML 
 
 **Techniques Used:**
 - Rule-based Knowledge Representation (Prolog-style rules in Python)
